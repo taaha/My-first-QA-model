@@ -1,6 +1,6 @@
 # My-first-QA-model
 
-In this NLP exercise we develop a simple QA model based on the popular Squad dataset from stanford.
+In this NLP exercise we develop a simple reader QA model (answers questions based on context) based on the popular Squad dataset from stanford.
 
 Project contains the following notebooks
 
